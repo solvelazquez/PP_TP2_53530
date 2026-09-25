@@ -1,0 +1,8 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas generadas por IntelliJ
+out/
+
+# Archivos generados por la persistencia del programa
+*.dat
